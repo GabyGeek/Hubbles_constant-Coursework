@@ -1,2 +1,2 @@
 # Hubbles_constant-Coursework
-Completed in my first term at university the code is takes in 30 observations of the redshifted Hα line from different galaxies and the distance to each galaxy,and calculates a value for Hubble’s constant.
+Completed in my first term at university the code is takes in 30 observations of the redshifted Hα line from different galaxies and the distance to each galaxy, and calculates a value for Hubble’s constant. The output of the code is a velocity-distance plot for each galaxy in the dataset and the value of Hubble's constant drawn from fitting the plot along with the uncertainty on the constant.
